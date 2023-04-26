@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.studentlist{
+    width: 100%;
+    background:  #F6F1E9;
+
+}
+.studentlist label{
+    
+}
+.studentlist .student{
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px 25px;
+}
+.studentlist .student:hover{
+    background: #FF8400;
+    border-bottom: 1px solid #fff;
+}
+.studentlist .student span{
+    display: inline-block;
+    width: 97%;
+    border-bottom: 1px solid #E74646;
+}
